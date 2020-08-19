@@ -1,5 +1,5 @@
 package com.gmail.pages;
 
-public class LoginPage {
+public class LoginPages {
 
 }
